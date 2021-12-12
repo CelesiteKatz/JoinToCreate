@@ -15,4 +15,4 @@ const jointocreate = require("./jointocreate");
 jointocreate(client);
 
 
-client.login("ODk1NjA2NDE1NTQzMTE1ODA3.YV7AeQ.zDHxdG5JpWUerC-CdKzxWSE1Sj0");
+client.login("");
